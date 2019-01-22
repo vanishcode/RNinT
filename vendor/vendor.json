@@ -3,6 +3,12 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "AltALLN6yYhM63B6AHzrTInV7eY=",
+			"path": "github.com/biezhi/moe",
+			"revision": "812cd05b104dd57240f1e7b7208164628bded8c1",
+			"revisionTime": "2018-04-02T08:32:21Z"
+		},
+		{
 			"checksumSHA1": "BxH9xJUqczhpL57gfKZe2/VlBHY=",
 			"path": "github.com/fatih/color",
 			"revision": "3f9d52f7176a6927daacff70a3e8d1dc2025c53e",
@@ -21,6 +27,12 @@
 			"path": "github.com/mattn/go-isatty",
 			"revision": "3f9d52f7176a6927daacff70a3e8d1dc2025c53e",
 			"revisionTime": "2018-10-10T23:13:11Z"
+		},
+		{
+			"checksumSHA1": "sipAX5ut8jd8lmsEtQo9U2Dns/k=",
+			"path": "github.com/modood/table",
+			"revision": "499dc7fba710b790913ac68962508e7d36467ba7",
+			"revisionTime": "2018-11-12T07:22:25Z"
 		},
 		{
 			"checksumSHA1": "CNHEeGnucEUlTHJrLS2kHtfNbws=",
