@@ -17,7 +17,7 @@ func main() {
 	var name string
 	color.Cyan("#请输入小说名：")
 	fmt.Scanln(&name)
-	moe := moe.New("正则爬取...").Spinner("dots2")
+	moe := moe.New("正在爬取...").Spinner("dots2")
 	moe.Start()
 	time.Sleep(5 * time.Second)
 	moe.Stop()
