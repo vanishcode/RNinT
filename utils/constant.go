@@ -11,5 +11,10 @@ const (
 	`
 	// Link 项目地址
 	Link = "https://github.com/vanishcode/RNinT"
+
+	// 项目
+	
+	// SearchURL 搜索结果
+	SearchURL = "https://www.owllook.net/search?wd="
 )
 
