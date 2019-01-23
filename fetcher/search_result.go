@@ -1,5 +1,5 @@
 // Package fetcher 搜索 + 结果列表
-// e.g. https://www.owllook.net/search?wd=龙族
+// e.g. https://www.owllook.net/search?wd=%E5%9C%A3%E5%A2%9F
 package fetcher
 
 import (
